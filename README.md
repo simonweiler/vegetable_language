@@ -5,6 +5,8 @@ XX Introduction
 WE replicated the results
 XXMETHODS
 Subjects are mean and pumpkin
+
+electrodes were placed
 XXRESULTS
 XXDISCUSSION
 # References
