@@ -2,7 +2,7 @@
 
 TODO write the structure of the paper
 XX Introduction 
-
+WE replicated the results
 XXMETHODS
 XXRESULTS
 XXDISCUSSION
