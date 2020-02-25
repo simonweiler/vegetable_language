@@ -7,6 +7,7 @@ XXMETHODS
 Subjects are mean and pumpkin
 
 electrodes were placed
+sunjects were presented with incon and con sentences
 XXRESULTS
 XXDISCUSSION
 # References
