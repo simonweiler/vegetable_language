@@ -4,6 +4,7 @@ TODO write the structure of the paper
 XX Introduction 
 WE replicated the results
 XXMETHODS
+Subjects are mean and pumpkin
 XXRESULTS
 XXDISCUSSION
 # References
