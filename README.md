@@ -5,6 +5,8 @@ XX Introduction
 WE replicated the results
 XXMETHODS
 Subjects are mean and pumpkin
+
+sunjects were presented with incon and con sentences
 XXRESULTS
 XXDISCUSSION
 # References
